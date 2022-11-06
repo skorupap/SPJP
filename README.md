@@ -4,3 +4,6 @@
 
 - [Michał Zakrzewski](https://github.com/ZakrzewskiM30/SPJP/) gr. NAUCZYCIEL
 - [Mikołaj Waszczur](https://github.com/mwaszczur/SPJP/) gr. 2
+- [Kamil Konkol](https://github.com/kkonkol/Laboratoria/) gr.2
+- [Oskar Aleksanderek](https://github.com/oaleksanderek/) gr. 2
+- [Mateusz Kłosinski](https://github.com/mklosinski1/mklosinski/) gr. 2
