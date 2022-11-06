@@ -22,3 +22,4 @@
 - [Tomasz Roksz](https://github.com/tomaszroksz/SPJP) gr. 4
 - [Łukasz Cichy](https://github.com/lcichy16/Laboratorium) gr. 4
 - [Kacper Miś](https://github.com/misk2) gr. 4
+- [Rafał Arnista](https://github.com/rarnista22/UG_lab.git) gr. 4
