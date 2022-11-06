@@ -39,7 +39,7 @@ Napisz program który pobierze od użytkownika rok i sprawdzi czy jest on przest
 
 Napisz program który pobierze od użytkownika trzy liczby (dzień, miesiąc, rok) i sprawdzi czy tworzą poprawną datę.
 
-## Zadanie 8
+## Zadanie 8(*) - długie
 
 Napisz program który pobierze od użytkownika sześć liczb (dzień1, miesiąc1, rok1, dzień2, miesiąc2, rok2) i obliczy ile lat, miesięcy i dni różni reprezentowanie przez nie daty.
 
