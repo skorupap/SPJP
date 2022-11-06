@@ -22,3 +22,4 @@
 - [Tomasz Roksz](https://github.com/tomaszroksz/SPJP) gr. 4
 - [Łukasz Cichy](https://github.com/lcichy16/Laboratorium) gr. 4
 - [Kacper Miś](https://github.com/misk2) gr. 4
+- [Olaf Drozd] (https://github.com/Olaf1522/studiaLab.git) gr. 4
