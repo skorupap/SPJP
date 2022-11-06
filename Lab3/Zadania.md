@@ -51,15 +51,15 @@ Napisz program który pobierze od użytkownika dwie pary liczb reprezentujące p
 
 Napisz program który pobierze od użytkownika długości trzech odcinków i sprawdzi czy można z nich utworzyć trójkąt.
 
-## Zadanie 10
+## Zadanie 11
 
 Napisz program który pobierze od użytkownika długości trzech odcinków i sprawdzi czy można z nich utworzyć trójkąt prostokątny.
 
-## Zadanie 11
+## Zadanie 12
 
 Napisz program który pobierze od użytkownika liczbę i sprawdzi czy jest ona podzielna przez liczby z zakresu 1-5 jeśli tak program powinien zwrócić pierwszą z tych liczb, jeśli podana liczba nie dzieli się przez żadną z tych liczb program powinien zwrócić stosowny komunikat.
 
-## Zadanie 12
+## Zadanie 13
 
 Napisz program który dla wybranych kątów wyrażonych w radianach wypisze wartości tych kontów w stopniach.
 Przykład:
@@ -76,15 +76,15 @@ Dla 1/2 Pi rad wybierz 5
 0 radianów to 0 stopni
 ```
 
-## Zadanie 13
+## Zadanie 14
 
 Napisz program który dla dowolnej wartości kąta w stopniach zwróci wartość tego kąta w radianach.
 
-## Zadanie 14
+## Zadanie 15
 
 Napisz program który poprosi użytkownika o odgadnięcie liczby z zakresu 1-5. Liczba powinna być na stałe wpisana do programu. Użytkownik ma trzy szanse na odgadnięcie liczby, jeśli użytkownik odgadnie prawidłową liczbę przed trzecią szansą program powinien się zakończyć. Podanie liczby z poza zakresu powinno skutkować dodatkową informacją o zmarnowanej szansie.
 
-## Zadanie 15
+## Zadanie 16
 
 Napisz program który poprosi użytkownika o odgadnięcie liczby z zakresu 1-5. Użytkownik ma cztery szanse na odgadnięcie liczby, ale złośliwy program powinien zawsze informować o odgadnięciu złej liczby. Po ostatniej próbie użytkownika program podaje jako poprawną odpowiedź liczbę z zakesu 1-5 różną od liczb podanych przez użytkownika.
 
