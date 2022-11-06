@@ -3,3 +3,5 @@
 ## Lista uczestników \[Imię Nazwisko\]\(link do repozytorium\) gr. nr grupy
 
 - [Michał Zakrzewski](https://github.com/ZakrzewskiM30/SPJP/) gr. NAUCZYCIEL
+
+- [Oskar Aleksanderek](https://github.com/oaleksanderek/) gr. 2
