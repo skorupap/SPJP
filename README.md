@@ -17,3 +17,4 @@
 - [Kacper Cichoszewski](https://github.com/kcichoszewski444/ug) gr. 2
 - [Michał Mówka](https://github.com/beobeb/UG) gr. 2
 - [Dominik Kuzimski](https://github.com/dkuzimski/SPJP) gr. 4
+- [Kacper Miś](https://github.com/misk2) gr. 4
