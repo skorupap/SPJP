@@ -16,6 +16,7 @@
 - [Mateusz Kłosinski](https://github.com/mklosinski1/mklosinski/) gr. 2
 - [Kacper Cichoszewski](https://github.com/kcichoszewski444/ug) gr. 2
 - [Michał Mówka](https://github.com/beobeb/UG) gr. 2
+- [Dominik Kuzimski](https://github.com/dkuzimski/SPJP) gr. 4
 - [Tomasz Roksz](https://github.com/tomaszroksz/SPJP) gr. 4
 - [Łukasz Cichy](https://github.com/lcichy16/Laboratorium) gr. 4
 - [Kacper Miś](https://github.com/misk2) gr. 4
