@@ -24,3 +24,4 @@
 - [Kacper Miś](https://github.com/misk2) gr. 4
 - [Rafał Arnista](https://github.com/rarnista22/UG_lab.git) gr. 4
 - [Olaf Drozd](https://github.com/Olaf1522/studiaLab.git) gr. 4
+- [Mateusz Ostrowski](https://github.com/Matost99/Informatyka.git) gr.4
