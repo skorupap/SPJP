@@ -18,7 +18,7 @@
 - [Kacper Cichoszewski](https://github.com/kcichoszewski444/ug) gr. 2 +
 - [Michał Mówka](https://github.com/beobeb/UG) gr. 2 +
 - [Jakub Jankowski](https://github.com/qn3k/Cwiczenia) gr. 4 +
-- [Aleksander Kozłowicz](https://github.com/Aleks277/newproject) gr.4
+- [Aleksander Kozłowicz](https://github.com/Aleks277/newproject) gr.4+
 - [Dominik Kuzimski](https://github.com/dkuzimski/SPJP) gr. 4 +
 - [Tomasz Roksz](https://github.com/tomaszroksz/SPJP) gr. 4
 - [Łukasz Cichy](https://github.com/lcichy16/Laboratorium) gr. 4
@@ -28,5 +28,5 @@
 - [Mateusz Ostrowski](https://github.com/Matost99/Informatyka.git) gr.4
 - [Paulina Szynaka](https://github.com/paulina9876/SPJP) gr. 4 +
 - [Daria Ogdowska](https://github.com/DariaOgd/UG_SPJP) gr. 4 +
-- [Joanna Jońca](https://github.com/jjonca/SPJP) gr. 4 +
+- [Joanna Jońca](https://github.com/jjonca/SPJP) gr. 4
 - [Bartłomiej Wiczling](https://github.com/BWiczling/Bart-omiej-Wiczling.git) gr. 4
