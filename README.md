@@ -10,7 +10,7 @@
 - [Jakub Spera](https://github.com/SperaJakub/cwiczenia) gr. 2 +
 - [Szymon Faligowski](https://github.com/SzymonFaligowskiUG/StudiaINFLab) gr. 2
 - [Marcin Polanowski](https://github.com/marcinpolanowski/SPJP) gr. 2 
-- [Mikołaj Waszczur](https://github.com/mwaszczur/SPJP/) gr. 2
+- [Mikołaj Waszczur](https://github.com/mwaszczur/SPJP/) gr. 2 +
 - [Kamil Konkol](https://github.com/kkonkol/Laboratoria/) gr. 2 +
 - [Oskar Aleksanderek](https://github.com/oaleksanderek/) gr. 2
 - [Mateusz Kłosinski](https://github.com/mklosinski1/mklosinski/) gr. 2 +
