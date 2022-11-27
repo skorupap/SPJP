@@ -8,11 +8,9 @@
 - [Paweł Skorupa](https://github.com/skorupap/SPJP-1) gr. 2 +
 - [Adrian Jarząb](https://github.com/Kodii1/Nazwa.git) gr. 2 ++
 - [Eryk Krysiewicz](https://github.com/erykexd/laboratoria.git) gr. 2 +
-- [Jakub Spera](https://github.com/SperaJakub/cwiczenia) gr. 2 +
+- [Jakub Spera](https://github.com/SperaJakub/cwiczenia) gr. 2 ++
+- [Marcin Polanowski](https://github.com/marcinpolanowski/SPJP) gr. 2 +
 - [Szymon Faligowski](https://github.com/SzymonFaligowskiUG/StudiaINFLab) gr. 2 + +
-- [Jakub Spera](https://github.com/SperaJakub/cwiczenia) gr. 2 +
-- [Szymon Faligowski](https://github.com/SzymonFaligowskiUG/StudiaINFLab) gr. 2
-- [Marcin Polanowski](https://github.com/marcinpolanowski/SPJP) gr. 2 
 - [Mikołaj Waszczur](https://github.com/mwaszczur/SPJP/) gr. 2 +
 - [Kamil Konkol](https://github.com/kkonkol/Laboratoria/) gr. 2 +
 - [Oskar Aleksanderek](https://github.com/oaleksanderek/) gr. 2 ++
