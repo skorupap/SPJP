@@ -13,7 +13,7 @@
 - [Marcin Polanowski](https://github.com/marcinpolanowski/SPJP) gr. 2 +
 - [Mikołaj Waszczur](https://github.com/mwaszczur/SPJP/) gr. 2 +
 - [Kamil Konkol](https://github.com/kkonkol/Laboratoria/) gr. 2 +
-- [Oskar Aleksanderek](https://github.com/oaleksanderek/) gr. 2 +
+- [Oskar Aleksanderek](https://github.com/oaleksanderek/) gr. 2 ++
 - [Mateusz Kłosinski](https://github.com/mklosinski1/mklosinski/) gr. 2 +
 - [Kacper Cichoszewski](https://github.com/kcichoszewski444/ug) gr. 2 +
 - [Michał Mówka](https://github.com/beobeb/UG) gr. 2 +
