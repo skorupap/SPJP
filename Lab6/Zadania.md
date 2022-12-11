@@ -4,7 +4,7 @@ Na tych zajęciach nie korzystaj z pętli!!!
 
 ## Zadanie 1 
 
-Za pomocą funkcji rekurencyjnej napisz program, który dla podanej liczby dziesiętnej wypisze na ekren tę liczbę w postaci binarnej. 
+Napisz funkcję rekurencyjną obliczającą n!. 
 
 ## Zadanie 2 
 
@@ -12,15 +12,13 @@ Napisz funkcję rekurencyjną implementującą algorytm Euklidesa obliczający N
 
 ## Zadanie 3 
 
-Napisz funkcję rekurencyjną obliczający n-ty wyraz ciągu Fibonacciego. 
+Napisz funkcję rekurencyjną która dla podanej liczby n wypisze wszystkie liczby z całkowite z przedziału [1, 2, … ,n]. 
 
 ## Zadanie 4 
-
-Napisz funkcję rekurencyjną obliczającą n!. 
+Napisz funkcję rekurencyjną obliczający n-ty wyraz ciągu Fibonacciego. 
 
 ## Zadanie 5 
-
-Napisz funkcję rekurencyjną która dla podanej liczby n wypisze wszystkie liczby z całkowite z przedziału [1, 2, … ,n]. 
+Za pomocą funkcji rekurencyjnej napisz program, który dla podanej liczby dziesiętnej wypisze na ekren tę liczbę w postaci binarnej. 
 
 ## Zadanie 6 
 
