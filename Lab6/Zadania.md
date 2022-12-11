@@ -51,3 +51,5 @@ Napisz funkcję rekurencyjną sprawdzającą czy podane słowo jest palindromem.
  `return funkcja(n-1)` - ok
  
  `return n+funkcja(n-1)` -nie
+ 
+ `return funkcja(n)+funkcja(k)` - nie
