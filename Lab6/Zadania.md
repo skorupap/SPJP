@@ -38,7 +38,7 @@ Napisz funkcję rekurencyjną sprawdzającą czy podane słowo jest palindromem.
 
  ## Zadanie 9 (dodatkowe, nieobowiązkowe, jeśli starczy czasu na zajęciach)
  
- Przepisz wcześniejsze zadania w taki sposób, żeby instrukcja `return` zwracała tylko stałe albo wywołanie rekurencyjne funkcji. W tych funkcjach nie definiuj dodatkowych zmiennych.
+ Przepisz wcześniejsze zadania w taki sposób, żeby instrukcja `return` zwracała tylko stałe albo wywołanie rekurencyjne funkcji. W tych funkcjach nie definiuj dodatkowych zmiennych (można zdefiniować dodatkowe argumenty funkcji i funkcje pomocnicze).
  
  Przykładowo:
  
