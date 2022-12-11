@@ -27,11 +27,27 @@ Napisz funkcję rekurencyjną obliczającą sumę cyfr podanej liczby.
 ## Zadanie 7 
 
 Napisz funkcję rekurencyjną która dla posortowanej tablicy liczb naturalnych i zadanej liczby sprawdzi, czy liczba jest elementem tej tablicy: 
+
 a) przeszukaj tablicę od lewej do prawej strony 
+
 b) skorzystaj z przeszukiwania binarnego 
 
 ## Zadanie 8 
 
 Napisz funkcję rekurencyjną sprawdzającą czy podane słowo jest palindromem. 
 
+ ## Zadanie 9 (dodatkowe, nieobowiązkowe, jeśli starczy czasu na zajęciach)
  
+ Przepisz wcześniejsze zadania w taki sposób, żeby instrukcja `return` zwracała tylko stałe albo wywołanie rekurencyjne funkcji. W tych funkcjach nie definiuj dodatkowych zmiennych (można zdefiniować dodatkowe argumenty funkcji i funkcje pomocnicze).
+ 
+ Przykładowo:
+ 
+ `return 1` - ok
+ 
+ `return n` - ok
+ 
+ `return funkcja(n)` - ok
+ 
+ `return funkcja(n-1)` - ok
+ 
+ `return n+funkcja(n-1)` -nie
