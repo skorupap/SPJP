@@ -14,7 +14,7 @@ Napisz funkcję typu void która przyjmuje adressy dwóch zmiennych i zamienia m
 
 ## Zadanie 4
 
-Napisz funkcję która przyjmuje jako argument wskaźnik na tablicę nieujemnych liczb całkowitych, funkcja powinna zwrócić największy element tablicy i zamienić jego wartość w oryginalnej tablicy na 0.
+Napisz funkcję która przyjmuje jako argument wskaźnik na tablicę nieujemnych liczb całkowitych i jej rozmiar, funkcja powinna zwrócić największy element tablicy i zamienić jego wartość w oryginalnej tablicy na 0.
 
 ## Zadanie 5
 
