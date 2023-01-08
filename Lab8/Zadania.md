@@ -11,7 +11,7 @@ Napisz program, który pobierze od użytkownika liczbę `n` oraz `n` liczb. Nast
 
 ## Zadanie 3
 
-Napisz program, który pobierze od użytkownika dowolne imię i nazwisko. Następnie sprawdzi czy w pliku `baza.txt`. znajdują się osoba o podanych wartościach. Na ekranie powinien zostać wypisany odpowiedni komunikat. Zdefiniuj i wykorzystaj strukturę osoba, która będzie zawierała pola zawierające informacje na temat imienia (maks. `20 znaków`) i nazwiska (maks. `30 znaków`).
+Napisz program, który pobierze od użytkownika dowolne imię i nazwisko. Następnie sprawdzi czy w pliku `baza.txt`. znajdują się osoba o podanych wartościach. Na ekranie powinien zostać wypisany odpowiedni komunikat. Dwie zmienne, które będzią przechowywały informacje na temat imienia (maks. `20 znaków`) i nazwiska (maks. `30 znaków`).
 Plik `baza.txt` zawiera `70` wierszy.
 
 ## Zadanie 4
